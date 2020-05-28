@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-05-28 05:09:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>d590ee03db531b046578f22ebf96194f</instance_id>
+        <instance_name>dev65784</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-05-28 05:09:30</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>aac16949dbc11010497b17803996196a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>amandokoro</sys_created_by>
+        <sys_created_on>2020-05-28 05:09:30</sys_created_on>
+        <sys_id>f8f3bea5db011010497b17803996191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17259af75f80000001</sys_recorded_at>
+        <sys_updated_by>amandokoro</sys_updated_by>
+        <sys_updated_on>2020-05-28 05:09:30</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>74f3bea5ac011010ba5c91733cf8bd1c</update_guid>
+        <update_guid_history>74f3bea5ac011010ba5c91733cf8bd1c:-429457270,30f3bea5b40110104c3c4c733cc1db19:-895707946,f4f3bea53d01101064d475454006c109:-240199755,74f3bea5b9011010d7777b951caf2e06:-547713703,f0f3bea558011010c272bf2fc8942803:-70435009,70f3bea5530110105d11bc9f12159b00:-237205117,fcf37ea502011010f64dd3ab3b305afc:-636435553,7cf37ea534011010abfd1af08ca08ef9:1518758329,8989e945af0510106383aae010de43b7:-1469345421,c1796d45120510101e757bd6d012a35c:1201197018,8d69a94560051010d266799682eeab95:-1151142635,1959e9455d051010dad963de8fae60b2:1302994545,2549e945e1051010cb7fb0ddf024a229:1099945995,9a39a945cb05101036b46bfa4d69f762:2008986353,44392945940510107add94fe8ef8b4f2:-1347984405,bc29a545b9051010493b53a2d2bc8f43:-1561295049,b119e5456c051010b192bfa83f0324cc:1303872315</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>amandokoro</sys_created_by>
+        <sys_created_on>2020-05-28 05:09:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>62f3fea5db011010497b1780399619ac</sys_id>
+        <sys_metadata>62f3fea5db011010497b1780399619ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">f8f3bea5db011010497b17803996191c</sys_update_version>
+        <sys_updated_by>amandokoro</sys_updated_by>
+        <sys_updated_on>2020-05-28 05:09:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
